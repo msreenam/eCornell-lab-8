@@ -33,9 +33,6 @@ Included in notebook:
 - Data wrangling and feature engineering  
 - Model training, evaluation, and documentation
 
-## 📁 Sample Data
-A small sample of the original dataset is included in the `data/` folder for testing purposes.
-
 ## 📝 How to Run This Project
 
 1. Clone the repo:
