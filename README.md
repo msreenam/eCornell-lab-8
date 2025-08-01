@@ -5,17 +5,16 @@ This project uses machine learning to predict review scores for Airbnb listings 
 
 ## 🎯 Objectives
 - Build a regression model to predict review scores.
-- Identify which property features most influence guest satisfaction.
+- Use unstrucutred text data to train model
 - Improve model performance through feature engineering and tuning.
 
 ## 🔍 Methodology
 - Performed EDA and data cleaning using Pandas and Seaborn.
-- Engineered new features from amenities, host status, price, etc.
-- Trained and evaluated models including linear regression and random forests using scikit-learn.
+- Engineered new features from descriptions and about sections
+- Trained and evaluated models including linear regression
 
 ## 📊 Results & Findings
-- Achieved MAE: 0.29, RMSE: 0.50, R²: ~0.65 on test data.
-- Found that price, host status, and location had the most predictive power.
+- Achieved MAE: 0.29, RMSE: 0.50
 - Visualized prediction accuracy and residuals.
 
 ## 📈 Visualizations
